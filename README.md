@@ -107,6 +107,4 @@ To avoid downgrading NumPy, we used a manual **PAM** implementation for K-Medoid
 ---
 
 ## Author
-**Sakthidhar Koneru**  
-Course: *(add course title)*  
-Lab: Wine Dataset Clustering (K-Means vs K-Medoids)
+Sai Venkata Bharath Reddy Singareddy - MSCS 634
